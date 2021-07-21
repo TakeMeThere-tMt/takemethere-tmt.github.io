@@ -34,4 +34,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Home
+
+Google Search only brings you to the article of interest, not the sentence that is highlighted in the results.  Take Me There, “tMt” will bring you to the sentence identified in the search results by clicking on tMt.  tMt will open the desired article, find the sentence, scroll you to that location, and highlight the desired text.
+
+In some cases, the snippet of text Google provides is data from a hidden metatag on the target web page, the actual text doesn’t exist on the target URL!  In this case tMt will bring you to the closest match on the web page to the text shown within the Google search.  No reason to spend your time looking for information no longer available on that web page.  If no match is found then tMt will leave you at the top of the target website.
+
+tMt is a Chrome Browser Extension that can be downloaded and installed from the Chrome Extension Store.
+
+Any questions please contact us at Feedback.SPFLL@gmail.com.
