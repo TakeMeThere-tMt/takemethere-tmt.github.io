@@ -44,4 +44,5 @@ tMt is a Chrome Browser Extension that can be downloaded and installed from the 
 
 Any questions please contact us at Feedback.SPFLL@gmail.com.
 
-[Contact](Contact1.html)    [Privacy Policy](PrivacyPolicy.html)
+[Contact](Contact
+.html)    [Privacy Policy](PrivacyPolicy.html)
