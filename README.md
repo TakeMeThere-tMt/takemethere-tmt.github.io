@@ -43,3 +43,5 @@ In some cases, the snippet of text Google provides is data from a hidden metatag
 tMt is a Chrome Browser Extension that can be downloaded and installed from the Chrome Extension Store.
 
 Any questions please contact us at Feedback.SPFLL@gmail.com.
+
+[Contact](Contact.md)
